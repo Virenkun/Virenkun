@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Developing SyntexCode, a platform for coding practice like LeetCode and InterviewBit, and Engager AI, a SaaS product for AI-driven lead generation and customer engagement.<br><br>👯 I’m looking to collaborate on<br>Innovative projects related to AI, microservices, and developer tools.<br><br>🤝 I’m looking for help with<br>Exploring advanced features in Supabase, optimizing AI chat integrations, and scaling microservices efficiently.<br><br>🌱 I’m currently learning<br>Real-time chat systems with Supabase, live speech-to-text transcription in React, and best practices for MySQL in Prisma.<br><br>💬 Ask me about<br>Full-stack development, microservices, AI chatbots, and tools like JHipster, Spring Boot, and Next.js.<br><br>⚡ Fun fact<br>I love exploring Japanese technology and work culture, and I’m always eager to dive into learning new frameworks and tools!<br><br>
 
+## Coding Hours
+[![wakatime](https://wakatime.com/badge/user/9765966f-6c81-45c0-b468-251caa093ee7.svg)](https://wakatime.com/@9765966f-6c81-45c0-b468-251caa093ee7)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wtfviren) 
