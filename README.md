@@ -1,87 +1,110 @@
 # 💫 About Me  
 
-🚀 **Currently Building**  
-- **[SyntexCode](https://github.com/virenkun)** → A coding practice platform inspired by LeetCode & InterviewBit.  
-- **Engager AI** → A SaaS product for AI-driven lead generation & customer engagement.  
+🚀 **Builder | AI x SaaS | Full-Stack Engineer**  
 
-🤝 **Collaboration Interests**  
-- AI & LLM integrations  
-- Scalable microservices & distributed systems  
-- Developer productivity tools  
-
-🌱 **Currently Exploring**  
-- Real-time chat systems with **Supabase**  
-- Live speech-to-text transcription in **React**  
-- Database best practices with **Prisma + MySQL**  
-
-💬 **Ask Me About**  
-- Full-stack development (Next.js, React, Spring Boot)  
-- AI chatbots & integrations  
-- Microservices architecture (JHipster, Kafka, Redis, Docker, Kubernetes)  
-
-⚡ **Fun Fact**  
-I’m fascinated by **Japanese technology & work culture**, and I love experimenting with new frameworks & developer tools.  
+I’m a developer focused on building **AI-powered products, scalable systems, and developer tools**.  
+Currently working on projects that combine **LLMs, real-time systems, and modern full-stack architecture**.
 
 ---
 
-## ⏳ Coding Activity  
-[![wakatime](https://wakatime.com/badge/user/9765966f-6c81-45c0-b468-251caa093ee7.svg)](https://wakatime.com/@9765966f-6c81-45c0-b468-251caa093ee7)
+## 🚀 Currently Building  
+
+- **[Platora AI](#)** → AI-powered calorie & nutrition tracking app using computer vision to analyze meals from photos.  
+
+### 🔹 SyntexCode  
+A **next-gen coding platform** inspired by LeetCode & InterviewBit  
+- AI-assisted problem solving  
+- Real-time code execution (Judge0)  
+- Scalable microservices architecture  
+- Built with Next.js, Spring Boot, Kafka, Redis  
 
 ---
 
-## 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wtfviren)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virenkun)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+### 🔹 Engager AI  
+A **SaaS platform for AI-driven lead generation & customer engagement**  
+- AI chatbot for businesses  
+- Conversation tracking & automation  
+- Smart lead insights & suggestions  
+- Built using Azure OpenAI + real-time chat systems  
+
+---
+
+## 🧠 What I Work On  
+
+- 🤖 AI Chatbots & LLM Integrations  
+- ⚡ Real-time Systems (chat, streaming, events)  
+- 🧩 Microservices & Distributed Architecture  
+- 🛠 Developer Tools & Platforms  
+
+---
+
+## 🌱 Currently Exploring  
+
+- Real-time chat with **Supabase**  
+- Live speech-to-text in **React**  
+- AI agents & streaming responses  
+- Database optimization with **Prisma + MySQL**  
+
+---
+
+## 💬 Ask Me About  
+
+- Full-stack (Next.js, React, Spring Boot)  
+- AI SaaS architecture  
+- System design & microservices  
+- Scaling apps with Kafka, Redis, Docker  
+
+---
+
+## ⚡ Fun Fact  
+
+I’m deeply interested in **Japanese engineering culture 🇯🇵** —  
+especially how they build **efficient, reliable, and scalable systems**.
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 LinkedIn → https://linkedin.com/in/virenkun  
+- 📸 Instagram → https://instagram.com/wtfviren  
+- 🌍 Portfolio → https://your-portfolio-link.com  
 
 ---
 
 # 💻 Tech Stack  
 
 ### 🖥️ Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+JavaScript • TypeScript • Java • Python • C++  
 
-### 🛠️ Frameworks & Libraries  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+### 🛠️ Frameworks & Tools  
+Next.js • React • Spring Boot • Prisma • Supabase  
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+MySQL • PostgreSQL • MongoDB • Redis  
 
 ### ☁️ Cloud & DevOps  
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)  
+Azure • Vercel • Docker • Kafka  
 
 ---
 
 # 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=virenkun&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=virenkun&theme=tokyonight&hide_border=true)  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=virenkun&theme=tokyonight&hide_border=true&layout=compact)  
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 Achievements  
 ![](https://github-profile-trophy.vercel.app/?username=virenkun&theme=onedark&no-frame=true&no-bg=true&margin-w=4)  
 
 ---
 
-### ✍️ Random Dev Quote  
+## ✍️ Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=virenkun&icon=0&color=6)](https://visitcount.itsvg.in)  
+![Profile Views](https://visitcount.itsvg.in/api?id=virenkun&icon=0&color=6)
